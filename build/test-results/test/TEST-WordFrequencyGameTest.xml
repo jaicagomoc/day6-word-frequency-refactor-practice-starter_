@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WordFrequencyGameTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-08-21T15:38:14" hostname="ITA12MNL-W10" time="0.519">
+  <properties/>
+  <testcase name="should_process_two_words_with_special_spaces()" classname="WordFrequencyGameTest" time="0.512"/>
+  <testcase name="should_process_two_words()" classname="WordFrequencyGameTest" time="0.001"/>
+  <testcase name="should_process_sorted_with_count_descending()" classname="WordFrequencyGameTest" time="0.002"/>
+  <testcase name="should_process_two_same_words_with_sorted()" classname="WordFrequencyGameTest" time="0.001"/>
+  <testcase name="should_get_the_1_when_input_the()" classname="WordFrequencyGameTest" time="0.001"/>
+  <testcase name="should_process_two_words_with_special_enter()" classname="WordFrequencyGameTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
